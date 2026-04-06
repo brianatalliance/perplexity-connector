@@ -134,11 +134,17 @@ See [`references/api-endpoints.md`](references/api-endpoints.md) for the complet
 - [wireguard-vpn-spk](https://github.com/brianatalliance/wireguard-vpn-spk) — WireGuard VPN Tunnel SPK for Synology DS220+ (userspace wireguard-go)
 - [nas-git-sync](https://github.com/brianatalliance/nas-git-sync) — Automated GitHub to Synology NAS repo sync script
 
+## Acknowledgments
+
+- [Perplexity AI](https://www.perplexity.ai/) — Provider of the Sonar API
+- [Perplexity Sonar API](https://docs.perplexity.ai/) — Official API documentation
+- [Python](https://www.python.org/) — Standard library only; no external dependencies required
+
 ## Author
 
-**Brian Vicente** — Network Coordinator & Cybersecurity Admin, [Alliance for Empowerment](https://www.allianceforempowerment.org)
+**Brian Vicente** — Network Coordinator & Cybersecurity Admin
 
-GitHub: [@brianatalliance](https://github.com/brianatalliance)
+Built with [Perplexity Computer](https://computer.perplexity.ai)
 
 ## License
 
